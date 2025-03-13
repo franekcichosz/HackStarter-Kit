@@ -1,4 +1,4 @@
-REM Author: @unveroleone | https://github.com/veroleone
+REM Author: @unveroleone | https://www.youtube.com/watch?v=YfM7d7KGeCU
 REM
 DELAY 1000
 GUI r
